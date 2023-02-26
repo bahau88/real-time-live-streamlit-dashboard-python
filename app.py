@@ -17,7 +17,7 @@ st.set_page_config(
 
 # dashboard title
 
-st.title("Real-Time / Live Data Science Dashboard")
+st.title("Real-Time Bank Data Analysis by Voelabs")
 
 # top-level filters 
 
